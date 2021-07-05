@@ -1,0 +1,20 @@
+{
+    "caption": "魔兽世界",
+
+    "window_base_second": 20,
+    "window_random_start": 3,
+    "window_random_end": 8,
+
+    "step_base_second": 2,
+    "step_random_start": 1,
+    "step_random_end": 2,
+
+    "action_list": [
+        {
+            "key": " "
+        },
+        {
+            "key": " "
+        }
+    ]
+}
